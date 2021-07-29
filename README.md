@@ -1,6 +1,6 @@
 # GithubTest
 You can use the command line to do differnet operations on github : 
-1) git clone "your file location at github"  # to download the file in yur system 
+1) git clone "your file location at github"  # to download the file in your system 
 2) you can add new files in your computer and copy this file to github folder 
 3) in order to add that file you can use the git add "file name" command # to add file
 4) to update that file to the github account use first the command git commit -m "added file name"
