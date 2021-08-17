@@ -23,3 +23,13 @@ use the following two commands to set your github account information to global.
   1) git config --global user.email "your github email"
   2) git config --global user.name "your github user name"
 after that step 5.
+
+
+
+
+***************************************************************
+
+## Git tutorial is the summary of a chapter from the following book
+Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code
+Sweigart, Al (Paperback)
+https://us.bookshunts.com/1593279663
